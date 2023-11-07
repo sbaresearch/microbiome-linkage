@@ -1,0 +1,14 @@
+# 1|TP: 2
+# 2|TP+FP: 0
+# 3|FN+FP: 0
+# 4|FN: 3
+# 5|NA: 4
+159490532	no_code
+160319967	no_matches
+160421117	no_code
+160582958	no_code
+160603188	no_matches
+604812005	no_matches
+686765762	no_code
+763435843	matches	763435843
+763961826	matches	763961826

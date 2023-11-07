@@ -1,0 +1,26 @@
+#SAMPLE	CODE
+158944319	#N/A
+158984779	Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae|unclassified|47	Bacteria|Actinobacteria|Actinobacteria|Coriobacteriales|Coriobacteriaceae|Atopobium|45	Bacteria|Tenericutes|Mollicutes|Mycoplasmatales|Mycoplasmataceae|Ureaplasma|82	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|9	Bacteria|Actinobacteria|Actinobacteria|Coriobacteriales|Coriobacteriaceae|Atopobium|63	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Dialister|159	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|128
+159753524	#N/A
+159915365	#N/A
+160502038	#N/A
+160582958	#N/A
+160866180	#N/A
+161007791	#N/A
+638754422	#N/A
+650853796	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|148	Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiales_incertae_sedis|unclassified|282	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|10	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|17	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes|30	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|27
+763698834	#N/A
+763719065	#N/A
+763759525	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|122	Bacteria|Firmicutes|Clostridia|Clostridiales|Incertae_Sedis_XI|Anaerococcus|46	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|150	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|128	Bacteria|Tenericutes|Mollicutes|Mycoplasmatales|Mycoplasmataceae|Ureaplasma|82	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|6	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|148
+763820215	#N/A
+763840445	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|77	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|2
+763901136	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|130	Bacteria|Tenericutes|Mollicutes|Mycoplasmatales|Mycoplasmataceae|Ureaplasma|82	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Mycobacteriaceae|Mycobacterium|400	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|3	Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingopyxis|528	Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|unclassified|125
+764042746	#N/A
+764062976	#N/A
+764143897	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|6	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|9	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|174	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|130	Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|unclassified|125	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|148	Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Pelomonas|32
+764184357	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|6	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|130	Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum|166	Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|4	Bacteria|Firmicutes|Clostridia|Clostridiales|Incertae_Sedis_XI|Finegoldia|71	Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Pelomonas|32
+764346198	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|6	Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|174	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|130	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|2
+764467579	#N/A
+809635352	#N/A
+892969023	#N/A
+970836795	#N/A

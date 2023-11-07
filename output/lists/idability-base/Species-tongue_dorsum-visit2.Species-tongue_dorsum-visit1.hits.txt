@@ -1,0 +1,50 @@
+# 1|TP: 0
+# 2|TP+FP: 0
+# 3|FN+FP: 0
+# 4|FN: 1
+# 5|NA: 44
+158337416	no_code
+158458797	no_code
+158479027	no_code
+158499257	no_code
+158802708	no_code
+158883629	no_matches
+158944319	no_code
+159207311	no_code
+159268001	no_code
+159369152	no_code
+159490532	no_code
+159551223	no_code
+159571453	no_code
+159591683	no_code
+159611913	no_code
+159814214	no_code
+160158126	no_code
+160178356	no_code
+160319967	no_code
+160380657	no_code
+160421117	no_code
+160582958	no_code
+160603188	no_code
+246515023	no_code
+638754422	no_code
+686765762	no_code
+763435843	no_code
+763536994	no_code
+763577454	no_code
+763820215	no_code
+763840445	no_code
+763860675	no_code
+763901136	no_code
+763961826	no_code
+763982056	no_code
+764042746	no_code
+764083206	no_code
+764143897	no_code
+764224817	no_code
+764305738	no_code
+764325968	no_code
+764447348	no_code
+764487809	no_code
+765094712	no_code
+809635352	no_code

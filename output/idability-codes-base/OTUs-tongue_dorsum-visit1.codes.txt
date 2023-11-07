@@ -1,0 +1,105 @@
+#SAMPLE	CODE
+158398106	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|5	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|313	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|28	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|24	Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|unclassified|19
+158418336	#N/A
+158438567	#N/A
+158458797	#N/A
+158479027	#N/A
+158499257	#N/A
+158721788	#N/A
+158742018	#N/A
+158802708	#N/A
+158883629	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|184	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|50	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Megasphaera|142	Bacteria|Firmicutes|Clostridia|Clostridiales|Incertae_Sedis_XI|Parvimonas|48	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|129	Bacteria|Firmicutes|Clostridia|Clostridiales|Peptostreptococcaceae|Peptostreptococcus|83	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|75
+158924089	#N/A
+158944319	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Veillonella|7	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|139	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|135	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|327	Bacteria|Firmicutes|Clostridia|Clostridiales|Incertae_Sedis_XI|Parvimonas|123	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|75	Bacteria|Firmicutes|Clostridia|Clostridiales|Peptostreptococcaceae|Peptostreptococcus|83
+158964549	#N/A
+159005010	#N/A
+159085930	#N/A
+159146620	#N/A
+159166850	#N/A
+159207311	#N/A
+159227541	Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Haemophilus|20	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|91	Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Aggregatibacter|205	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|unclassified|37	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|50	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Selenomonas|29	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|28
+159247771	#N/A
+159268001	#N/A
+159288231	Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|unclassified|19	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|39	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|120	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|unclassified|99	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|52	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|80	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|74	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|75
+159308461	#N/A
+159369152	#N/A
+159450072	#N/A
+159490532	#N/A
+159510762	#N/A
+159551223	#N/A
+159571453	#N/A
+159591683	#N/A
+159611913	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|unclassified|37	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|unclassified|100	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|35	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|28	Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|unclassified|19	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Parabacteroides|38	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Selenomonas|94
+159632143	#N/A
+159672603	#N/A
+159713063	#N/A
+159753524	#N/A
+159814214	#N/A
+160056975	#N/A
+160097436	#N/A
+160158126	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Fusobacteriaceae|Fusobacterium|738	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|24	Bacteria|Firmicutes|Clostridia|Clostridiales|Incertae_Sedis_XI|Parvimonas|48	Bacteria|Firmicutes|Clostridia|Clostridiales|Peptostreptococcaceae|Peptostreptococcus|112	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|unclassified|524	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|74
+160178356	#N/A
+160218816	#N/A
+160319967	#N/A
+160380657	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|65	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|75	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|55	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|970	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|35	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|120	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|unclassified|201
+160400887	#N/A
+160421117	#N/A
+160582958	#N/A
+160603188	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Corynebacteriaceae|Corynebacterium|188	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Selenomonas|94	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|75	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|28	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|129	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|133	Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|unclassified|19
+160704339	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|133	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Corynebacteriaceae|Corynebacterium|15	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|35	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|450	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|90	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|444	Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|unclassified|19
+160765029	#N/A
+160825720	#N/A
+160845950	#N/A
+160947100	#N/A
+160967330	#N/A
+160987560	#N/A
+161270782	#N/A
+161311242	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|8	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|unclassified|113	Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|548	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|78	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|39	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|140	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Lactococcus|223
+161331472	#N/A
+161351702	#N/A
+161412393	#N/A
+161473083	#N/A
+161554003	#N/A
+246515023	#N/A
+289996019	#N/A
+295137534	#N/A
+336497421	#N/A
+368533040	#N/A
+375450439	#N/A
+414519462	#N/A
+492786515	#N/A
+638754422	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|20	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|35	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|124	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|unclassified|37	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|90	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Selenomonas|29	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|74	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Dialister|66	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|1022
+650853796	#N/A
+686765762	#N/A
+763516763	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|unclassified|29	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|37	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|50	Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Pelomonas|32	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|90	Bacteria|Firmicutes|Clostridia|Clostridiales|Peptostreptococcaceae|Peptostreptococcus|83	Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Ralstonia|52
+763536994	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|50	Bacteria|Firmicutes|Bacilli|Lactobacillales|Aerococcaceae|unclassified|76	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|unclassified|62	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|95	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|98	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|187	Bacteria|Firmicutes|Clostridia|Clostridiales|Incertae_Sedis_XI|Parvimonas|48
+763597684	#N/A
+763638144	#N/A
+763698834	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Fusobacteriaceae|Fusobacterium|27	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|310	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|847	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|65	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|Butyrivibrio|259	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|24	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|28
+763719065	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Veillonella|7	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Propionibacteriaceae|Propionibacterium|1	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|133	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Veillonella|234	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|547	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|35	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|50
+763759525	#N/A
+763820215	#N/A
+763840445	#N/A
+763860675	#N/A
+763880905	#N/A
+763901136	#N/A
+763982056	#N/A
+764002286	#N/A
+764042746	#N/A
+764062976	#N/A
+764083206	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|unclassified|2	Bacteria|Firmicutes|Clostridia|Clostridiales|Incertae_Sedis_XI|Parvimonas|26	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|37	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Fusobacteriaceae|Fusobacterium|9	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|65	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|unclassified|37	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|24
+764143897	#N/A
+764184357	#N/A
+764224817	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|unclassified|22	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|35	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|80	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|74	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|unclassified|754	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|unclassified|106	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|120
+764305738	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|unclassified|2	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|622	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|192	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|124	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|28	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Megasphaera|142
+764325968	#N/A
+764346198	Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|unclassified|132	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|59	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|36	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|87	Bacteria|Firmicutes|Clostridia|Clostridiales|Peptococcaceae|Peptococcus|235	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|40	Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|28
+764447348	#N/A
+764467579	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|34	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|135	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|unclassified|949	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|556	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|35	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|50	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|355
+764487809	#N/A
+764669880	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|34	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|50	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|unclassified|195	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|187	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|327	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|129	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Selenomonas|29
+765074482	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|34	Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Corynebacteriaceae|Corynebacterium|188	Bacteria|Fusobacteria|Fusobacteria|Fusobacteriales|Leptotrichiaceae|Leptotrichia|90	Bacteria|Firmicutes|Clostridia|Clostridiales|Veillonellaceae|Selenomonas|29	Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|120	Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|unclassified|37	Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|129
+765094712	#N/A
+809635352	#N/A
+892969023	#N/A
+970836795	#N/A

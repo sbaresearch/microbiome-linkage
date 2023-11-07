@@ -1,0 +1,70 @@
+# 1|TP: 2
+# 2|TP+FP: 0
+# 3|FN+FP: 4
+# 4|FN: 50
+# 5|NA: 9
+158398106	no_matches
+158418336	no_matches
+158458797	matches	158458797
+158742018	no_matches
+158802708	no_matches
+158964549	no_matches
+159005010	no_matches
+159085930	no_matches
+159146620	no_matches
+159166850	no_matches
+159247771	no_matches
+159268001	no_matches
+159288231	no_matches
+159369152	matches	160400887
+159450072	no_matches
+159490532	no_matches
+159510762	no_matches
+159551223	no_matches
+159611913	no_matches
+159632143	matches	159632143
+159672603	no_matches
+159713063	no_matches
+159753524	no_matches
+159814214	no_matches
+159915365	no_matches
+160097436	no_matches
+160158126	no_matches
+160319967	no_matches
+160380657	no_matches
+160400887	no_matches
+160421117	matches	160704339
+160502038	no_matches
+160582958	no_matches
+160603188	no_matches
+160704339	no_matches
+160845950	no_matches
+160987560	no_code
+161270782	no_code
+161311242	no_code
+161351702	no_code
+161412393	no_code
+246515023	no_matches
+295137534	no_code
+368533040	no_code
+370425937	no_code
+604812005	no_matches
+638754422	no_matches
+686765762	no_matches
+763536994	no_matches
+763597684	no_matches
+763638144	matches	160400887
+763698834	no_matches
+763719065	no_matches
+763820215	no_matches
+763880905	no_matches
+763901136	matches	809635352
+764002286	no_matches
+764083206	no_matches
+764184357	no_matches
+764305738	no_matches
+764346198	no_matches
+764669880	no_matches
+765094712	no_matches
+765560005	no_matches
+809635352	no_code

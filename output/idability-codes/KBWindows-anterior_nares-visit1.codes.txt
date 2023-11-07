@@ -1,0 +1,10 @@
+#SAMPLE	CODE
+159490532	#N/A
+160319967	Corynebacterium_accolens_ATCC_49726|GL397138.1|452	Corynebacterium_accolens_ATCC_49726|GL397138.1|244	Corynebacterium_accolens_ATCC_49726|GL397138.1|700	Corynebacterium_accolens_ATCC_49726|GL397138.1|1447	Corynebacterium_accolens_ATCC_49726|GL397158.1|1
+160421117	#N/A
+160582958	#N/A
+160603188	Corynebacterium_accolens_ATCC_49726|GL397142.1|2	Corynebacterium_accolens_ATCC_49726|GL397138.1|2249	Corynebacterium_accolens_ATCC_49726|GL397138.1|1199	Corynebacterium_accolens_ATCC_49726|GL397158.1|1	Corynebacterium_accolens_ATCC_49726|GL397138.1|2110
+604812005	Corynebacterium_accolens_ATCC_49726|GL397153.1|1	Corynebacterium_tuberculostearicum_SK141|NZ_ACVP01000027.1|32	Corynebacterium_accolens_ATCC_49726|GL397138.1|208	Corynebacterium_accolens_ATCC_49726|GL397138.1|2250	Corynebacterium_accolens_ATCC_49726|GL397138.1|836	Corynebacterium_accolens_ATCC_49726|GL397138.1|834	Corynebacterium_accolens_ATCC_49726|GL397138.1|1456
+686765762	#N/A
+763435843	Corynebacterium_accolens_ATCC_49726|GL397138.1|2066	Corynebacterium_accolens_ATCC_49726|GL397138.1|2248	Corynebacterium_accolens_ATCC_49726|GL397138.1|208	Corynebacterium_accolens_ATCC_49726|GL397158.1|1
+763961826	Corynebacterium_accolens_ATCC_49726|GL397153.1|1	Corynebacterium_accolens_ATCC_49726|GL397138.1|2110	Corynebacterium_accolens_ATCC_49726|GL397138.1|1447	Corynebacterium_accolens_ATCC_49726|GL397158.1|1	Propionibacterium_acnes_SK137|CP001977.1|856	Corynebacterium_accolens_ATCC_49726|GL397138.1|2320	Propionibacterium_acnes_SK137|CP001977.1|207

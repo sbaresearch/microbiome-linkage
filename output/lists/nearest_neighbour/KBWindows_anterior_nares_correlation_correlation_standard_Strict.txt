@@ -1,0 +1,14 @@
+# 1|TP: 2
+# 2|TP+FP: 0
+# 3|FP: 3
+# 4|FN: 4
+# 5|NA: 0
+763435843	no_matches
+763961826	matches	763961826
+159490532	matches_fp	686765762
+160421117	no_matches
+160582958	no_matches
+160603188	matches_fp	763961826
+160319967	matches_fp	686765762
+604812005	no_matches
+686765762	matches	686765762

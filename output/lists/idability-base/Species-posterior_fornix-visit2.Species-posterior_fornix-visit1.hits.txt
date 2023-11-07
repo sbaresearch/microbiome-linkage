@@ -1,0 +1,19 @@
+# 1|TP: 0
+# 2|TP+FP: 0
+# 3|FN+FP: 0
+# 4|FN: 3
+# 5|NA: 11
+158337416	no_code
+158944319	no_code
+159247771	no_code
+159753524	no_code
+160502038	no_code
+160582958	no_code
+763577454	no_matches
+763759525	no_code
+763820215	no_code
+763840445	no_code
+763901136	no_matches
+764042746	no_code
+764143897	no_matches
+809635352	no_code

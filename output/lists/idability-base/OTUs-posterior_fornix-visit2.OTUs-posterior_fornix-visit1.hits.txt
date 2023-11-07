@@ -1,0 +1,30 @@
+# 1|TP: 2
+# 2|TP+FP: 0
+# 3|FN+FP: 1
+# 4|FN: 5
+# 5|NA: 17
+158944319	no_code
+158984779	no_matches
+159753524	no_code
+159915365	no_code
+160502038	no_code
+160582958	no_code
+160866180	no_code
+161007791	no_code
+638754422	no_code
+650853796	no_matches
+763698834	no_code
+763719065	no_code
+763759525	matches	763759525
+763820215	no_code
+763840445	matches	764467579
+763901136	no_matches
+764042746	no_code
+764062976	no_code
+764143897	no_matches
+764184357	matches	764184357
+764346198	no_matches
+764467579	no_code
+809635352	no_code
+892969023	no_code
+970836795	no_code
